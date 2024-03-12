@@ -28,4 +28,4 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 <br />
 
-💙 If you like this project, give it a ⭐ and share it with friends!
+💙 If you like this project, give it a ⭐ 
