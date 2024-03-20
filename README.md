@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/React-Native?style=for-the-badge&logo=React-Native&logoColor=white&labelColor=white) ![Static Badge](https://img.shields.io/badge/npm-Blue?style=for-the-badge&logo=npm&logoColor=black&labelColor=white&color=white)
+![Static Badge](https://img.shields.io/badge/React-Native?style=for-the-badge&logo=React-Native&logoColor=white&labelColor=white) ![Static Badge](https://img.shields.io/badge/npm-Blue?style=for-the-badge&logo=npm&logoColor=black&labelColor=white&color=white) ![Static Badge](https://img.shields.io/badge/Youtube-Blue?style=for-the-badge&logo=youtube&logoColor=black&labelColor=red&color=red)
+
 
 
 
