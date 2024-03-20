@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/React-Native?style=for-the-badge&logo=React-Native&logoColor=white&labelColor=white)
+![Static Badge](https://img.shields.io/badge/React-Native?style=for-the-badge&logo=React-Native&logoColor=white&labelColor=white) ![Static Badge](https://img.shields.io/badge/npm-Blue?style=for-the-badge&logo=npm&logoColor=black&labelColor=white&color=white)
+
 
 
 # Youtube-Clone-React-Native
